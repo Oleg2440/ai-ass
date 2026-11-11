@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "description": "12344",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "ai-ass",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ai-ass",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
